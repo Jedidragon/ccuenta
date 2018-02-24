@@ -12,7 +12,7 @@ public class Ccuenta {
 
 	    public Ccuenta (String nom, String cue, double sal, double tipo)
 	    {
-	        nombre =nom;
+	        nombre=nom;
 	        cuenta=cue;
 	        saldo=sal;
 	    }
