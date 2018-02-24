@@ -2,7 +2,12 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-public class TestCcuentaJMPLR {
+public class TestCcuentaJMPR {
+
+	@Test
+	public void testCcuenta() {
+		fail("No implementado aun");
+	}
 
 	@Test
 	public void testGetSaldo() {
